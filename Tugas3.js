@@ -4,7 +4,6 @@ if (typeof printSegitiga != "number") {
 } else {
   for (var i = printSegitiga; i >= 1; i--) {
     var cetak = "";
-
     for (var j = 1; j <= i; j++) {
       cetak = cetak + j;
     }
