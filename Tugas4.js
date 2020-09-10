@@ -20,4 +20,8 @@ const newData = {
   hobby: ["Badminton", "Volley"],
 };
 
-console.log(newData);
+var {
+  address : {street,city}
+} = newData 
+
+console.log(street + "\n" +city)
