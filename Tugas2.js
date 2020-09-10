@@ -5,10 +5,10 @@ const ipa = 69;
 let grade = "";
 
 if (
-  mtk != null &&
-  bahasaIndonesia != null &&
-  bahasaInggris != null &&
-  ipa != null
+  mtk != undefined &&
+  bahasaIndonesia != undefined &&
+  bahasaInggris != undefined &&
+  ipa != undefined
 ) {
   // rata-rata
   let hasil = (mtk + bahasaIndonesia + bahasaInggris + ipa) / 4;
