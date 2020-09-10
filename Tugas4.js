@@ -11,8 +11,8 @@ let data = {
     zipcode: "92998-3874",
   },
   phone: "1-770-736-8031 x56442",
-  website: "hildegard.org",
-};
+  website: "hildegard.org"
+}
 const newData = {
   ...data,
   name: "Ahmad Maulana Yusup",
