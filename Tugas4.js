@@ -3,7 +3,6 @@ let data = {
   name: "Leanne Graham",
   username: "Bret",
   email: "Sincere@april.biz",
-  hobby: ["Basketball", "Baseball"],
   address: {
     street: "Kulas Light",
     suite: "Apt. 556",
